@@ -1,0 +1,6 @@
+{
+    "filmes":[
+        {"name": "Mulher Maravilha", "PointsToBuy": 205},
+        {"name": "Homem Aranha", "PointsToBuy": 375}
+    ]
+}
